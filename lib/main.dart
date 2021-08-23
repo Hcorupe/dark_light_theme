@@ -65,7 +65,6 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
-          print(_darkNotifier.value.toString());
           isDark = !isDark;
           _darkNotifier.value = isDark;
         },
