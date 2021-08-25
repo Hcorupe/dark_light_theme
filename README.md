@@ -9,4 +9,4 @@
 ![Light](assets/light.png)
 ![Dark](assets/dark.png)
 
-# dark_light_theme
+# Light / Dark Themeing template
