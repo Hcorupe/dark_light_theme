@@ -2,8 +2,8 @@
 
 
 - ValueListenableBuilder
-- Check System default 
-- implement dispose (_darkNotifier)
+- Checks the System default 
+- implement dispose 
 
 ![Light](assets/light.png)
 ![Dark](assets/dark.png)
